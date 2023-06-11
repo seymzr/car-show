@@ -1,0 +1,1332 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.4.50",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Garage/Showroom.001",
+            "nodes" : [
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "name" : "bmw-body.001",
+            "rotation" : [
+                0.7069272994995117,
+                -0.00017951682093553245,
+                0.0001794256822904572,
+                0.7072861790657043
+            ],
+            "scale" : [
+                2.9433419704437256,
+                2.943342447280884,
+                2.9433434009552
+            ],
+            "translation" : [
+                0.0002132738591171801,
+                5.243121995590627e-05,
+                -0.018543601036071777
+            ]
+        },
+        {
+            "children" : [
+                0
+            ],
+            "name" : "DEF-Body",
+            "rotation" : [
+                -0.7071068286895752,
+                -1.2862198285612525e-12,
+                -1.2862198285612525e-12,
+                0.7071068286895752
+            ],
+            "translation" : [
+                5.922629497945309e-09,
+                0.12290772795677185,
+                0.9198658466339111
+            ]
+        },
+        {
+            "name" : "bmw-wheel.Ft.L.001",
+            "rotation" : [
+                0.713250458240509,
+                0.7009091377258301,
+                -6.200244229148666e-08,
+                0.0003546374791767448
+            ],
+            "scale" : [
+                0.20832949876785278,
+                0.20832942426204681,
+                0.2083294540643692
+            ],
+            "translation" : [
+                -0.026883473619818687,
+                0.00012051107478328049,
+                0.0020855069160461426
+            ]
+        },
+        {
+            "children" : [
+                2
+            ],
+            "name" : "DEF-Wheel.Ft.L",
+            "rotation" : [
+                -0.7071068286895752,
+                -1.2862198285612525e-12,
+                -1.2862198285612525e-12,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0.5647814273834229,
+                0.23607563972473145,
+                1.9810070991516113
+            ]
+        },
+        {
+            "name" : "bmw-wheel.Ft.R.001",
+            "rotation" : [
+                -0.7071069478988647,
+                0.7071065902709961,
+                -0.00035791730624623597,
+                1.7266211571609347e-08
+            ],
+            "scale" : [
+                0.20832951366901398,
+                0.20832940936088562,
+                0.2083294540643692
+            ],
+            "translation" : [
+                0.024252422153949738,
+                0.00011935432848986238,
+                0.0015406906604766846
+            ]
+        },
+        {
+            "children" : [
+                4
+            ],
+            "name" : "DEF-Wheel.Ft.R",
+            "rotation" : [
+                -0.7071068286895752,
+                -1.2862198285612525e-12,
+                -1.2862199369814697e-12,
+                0.7071068286895752
+            ],
+            "scale" : [
+                1,
+                0.9999998807907104,
+                1
+            ],
+            "translation" : [
+                -0.5630335807800293,
+                0.23600849509239197,
+                1.9810067415237427
+            ]
+        },
+        {
+            "name" : "bmw-wheel.Bk.L.001",
+            "rotation" : [
+                0.7071067690849304,
+                0.7071067094802856,
+                -6.626604687198778e-08,
+                0.00035777053562924266
+            ],
+            "scale" : [
+                0.2083294838666916,
+                0.20832942426204681,
+                0.2083294540643692
+            ],
+            "translation" : [
+                -0.022308262065052986,
+                0.00012101091124350205,
+                0.0010868310928344727
+            ]
+        },
+        {
+            "children" : [
+                6
+            ],
+            "name" : "DEF-Wheel.Bk.L",
+            "rotation" : [
+                -0.7071068286895752,
+                -1.2862198285612525e-12,
+                -1.2862198285612525e-12,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0.5647816061973572,
+                0.23607563972473145,
+                -0.0014279026072472334
+            ]
+        },
+        {
+            "name" : "bmw-wheel.Bk.R.001",
+            "rotation" : [
+                -0.7071068286895752,
+                0.7071066498756409,
+                -0.00035791730624623597,
+                1.7286792441950638e-08
+            ],
+            "scale" : [
+                0.20832949876785278,
+                0.20832940936088562,
+                0.2083294540643692
+            ],
+            "translation" : [
+                0.020542092621326447,
+                0.00012287517893128097,
+                0.000539243221282959
+            ]
+        },
+        {
+            "children" : [
+                8
+            ],
+            "name" : "DEF-Wheel.Bk.R",
+            "rotation" : [
+                -0.7071068286895752,
+                -1.2862198285612525e-12,
+                -1.2862199369814697e-12,
+                0.7071068286895752
+            ],
+            "scale" : [
+                1,
+                0.9999998807907104,
+                1
+            ],
+            "translation" : [
+                -0.5630335211753845,
+                0.23820734024047852,
+                0.0014275267021730542
+            ]
+        },
+        {
+            "name" : "DEF-WheelBrake.Ft.L",
+            "rotation" : [
+                -0.7071068286895752,
+                -1.2862198285612525e-12,
+                -1.2862198285612525e-12,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0.9714844226837158,
+                0.5000000596046448,
+                2.9232945442199707
+            ]
+        },
+        {
+            "name" : "DEF-WheelBrake.Ft.R",
+            "rotation" : [
+                -0.7071068286895752,
+                -1.2862198285612525e-12,
+                -1.2862198285612525e-12,
+                0.7071068286895752
+            ],
+            "translation" : [
+                -0.6285156607627869,
+                0.5000000596046448,
+                2.9232943058013916
+            ]
+        },
+        {
+            "name" : "DEF-WheelBrake.Bk.L",
+            "rotation" : [
+                -0.7071068286895752,
+                -1.2862198285612525e-12,
+                -1.2862198285612525e-12,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0.9714846014976501,
+                0.5000000596046448,
+                -1.0767055749893188
+            ]
+        },
+        {
+            "name" : "DEF-WheelBrake.Bk.R",
+            "rotation" : [
+                -0.7071068286895752,
+                -1.2862198285612525e-12,
+                -1.2862198285612525e-12,
+                0.7071068286895752
+            ],
+            "translation" : [
+                -0.6285156011581421,
+                0.5000000596046448,
+                -1.0767054557800293
+            ]
+        },
+        {
+            "name" : "SHP-Root",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                1.1173913478851318,
+                -0.6478537321090698,
+                0.010000050067901611
+            ]
+        },
+        {
+            "name" : "SHP-GroundSensor.Axle.Bk",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "scale" : [
+                1,
+                0.9999998807907104,
+                1
+            ],
+            "translation" : [
+                -2.2733001969754696e-07,
+                2.2992026060819626e-07,
+                -0.23614144325256348
+            ]
+        },
+        {
+            "name" : "SHP-Drift",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -1.1126394383609295e-07,
+                2.223717451095581,
+                0.23714148998260498
+            ]
+        },
+        {
+            "name" : "SHP-GroundSensor.Ft.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -2.7216447051614523e-07,
+                1.072912709787488e-07,
+                -0.23507559299468994
+            ]
+        },
+        {
+            "name" : "MCH-Wheel.Ft.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -0.5582736730575562,
+                -0.6512048244476318,
+                0
+            ]
+        },
+        {
+            "name" : "WheelBrake.Ft.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                0.9114323854446411,
+                0.9422879815101624,
+                -0.26392439007759094
+            ]
+        },
+        {
+            "children" : [
+                19
+            ],
+            "name" : "MCH-WheelBrake.Ft.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -0.15157067775726318,
+                -1.5934922695159912,
+                0.26392439007759094
+            ]
+        },
+        {
+            "name" : "Wheel.Ft.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                0.7598618268966675,
+                -0.6512047648429871,
+                0
+            ]
+        },
+        {
+            "name" : "MCH-WheelDamper.Ft.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -1.288967490196228,
+                4.859321052208543e-07,
+                -0.11803780496120453
+            ]
+        },
+        {
+            "children" : [
+                22
+            ],
+            "name" : "WheelDamper.Ft.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                0.7306936979293823,
+                -0.65120530128479,
+                0.11803780496120453
+            ]
+        },
+        {
+            "children" : [
+                17,
+                18,
+                20,
+                21,
+                23
+            ],
+            "name" : "GroundSensor.Ft.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                1.1230546236038208,
+                -1.3298019170761108,
+                0.23607563972473145
+            ]
+        },
+        {
+            "name" : "SHP-GroundSensor.Ft.R",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -1.4551915228366852e-11,
+                2.1698724594898522e-08,
+                -0.23500844836235046
+            ]
+        },
+        {
+            "name" : "MCH-Wheel.Ft.R",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                0.5582728385925293,
+                0.3092697858810425,
+                0
+            ]
+        },
+        {
+            "name" : "MCH-WheelBrake.Ft.R",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                0.49279075860977173,
+                -0.6330178380012512,
+                0.2639915347099304
+            ]
+        },
+        {
+            "name" : "Wheel.Ft.R",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -0.7256687879562378,
+                0.3092695474624634,
+                0
+            ]
+        },
+        {
+            "name" : "MCH-WheelDamper.Ft.R",
+            "rotation" : [
+                0,
+                0,
+                -2.7284841053187847e-12,
+                1
+            ],
+            "scale" : [
+                1,
+                0.9999999403953552,
+                1
+            ],
+            "translation" : [
+                1.2889502048492432,
+                3.5754419513978064e-07,
+                -0.11800424754619598
+            ]
+        },
+        {
+            "children" : [
+                29
+            ],
+            "name" : "WheelDamper.Ft.R",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "scale" : [
+                1,
+                0.9999998807907104,
+                1
+            ],
+            "translation" : [
+                -0.7306773662567139,
+                0.3092693090438843,
+                0.11800424754619598
+            ]
+        },
+        {
+            "children" : [
+                25,
+                26,
+                27,
+                28,
+                30
+            ],
+            "name" : "GroundSensor.Ft.R",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -1.1213066577911377,
+                -2.290276288986206,
+                0.23600849509239197
+            ]
+        },
+        {
+            "name" : "SHP-GroundSensor.Bk.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -3.1408853828907013e-07,
+                2.310844138264656e-07,
+                -0.23507559299468994
+            ]
+        },
+        {
+            "name" : "MCH-Wheel.Bk.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -0.5582734942436218,
+                -0.6512047052383423,
+                0
+            ]
+        },
+        {
+            "name" : "WheelBrake.Bk.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                0.9114323258399963,
+                -1.0752780437469482,
+                -0.26392439007759094
+            ]
+        },
+        {
+            "children" : [
+                34
+            ],
+            "name" : "MCH-WheelBrake.Bk.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -0.15157051384449005,
+                0.4240727424621582,
+                0.26392439007759094
+            ]
+        },
+        {
+            "name" : "Wheel.Bk.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                0.7598617672920227,
+                -0.6512048840522766,
+                0
+            ]
+        },
+        {
+            "name" : "MCH-WheelDamper.Bk.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -1.2889677286148071,
+                -2.2473977878689766e-07,
+                -0.11803780496120453
+            ]
+        },
+        {
+            "children" : [
+                37
+            ],
+            "name" : "WheelDamper.Bk.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                0.7306936383247375,
+                -0.6512049436569214,
+                0.11803780496120453
+            ]
+        },
+        {
+            "children" : [
+                32,
+                33,
+                35,
+                36,
+                38
+            ],
+            "name" : "GroundSensor.Bk.L",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                1.1230545043945312,
+                0.6526330709457397,
+                0.23607563972473145
+            ]
+        },
+        {
+            "name" : "SHP-GroundSensor.Bk.R",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -2.134765964001417e-08,
+                2.639135345816612e-07,
+                -0.23720726370811462
+            ]
+        },
+        {
+            "name" : "MCH-Wheel.Bk.R",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                0.5582730770111084,
+                0.6512054204940796,
+                2.9802322387695312e-08
+            ]
+        },
+        {
+            "name" : "MCH-WheelBrake.Bk.R",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                0.49279099702835083,
+                1.729338526725769,
+                0.26179271936416626
+            ]
+        },
+        {
+            "name" : "Wheel.Bk.R",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "scale" : [
+                1,
+                0.9999998807907104,
+                1
+            ],
+            "translation" : [
+                -0.7598621249198914,
+                0.6512053608894348,
+                2.9802322387695312e-08
+            ]
+        },
+        {
+            "name" : "MCH-WheelDamper.Bk.R",
+            "rotation" : [
+                0,
+                0,
+                -2.7284841053187847e-12,
+                1
+            ],
+            "scale" : [
+                1,
+                0.9999999403953552,
+                1
+            ],
+            "translation" : [
+                1.2894998788833618,
+                1.2369855539873242e-07,
+                -0.11910365521907806
+            ]
+        },
+        {
+            "children" : [
+                44
+            ],
+            "name" : "WheelDamper.Bk.R",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "scale" : [
+                1,
+                0.9999998807907104,
+                1
+            ],
+            "translation" : [
+                -0.7312267422676086,
+                0.6512054204940796,
+                0.11910367012023926
+            ]
+        },
+        {
+            "children" : [
+                40,
+                41,
+                42,
+                43,
+                45
+            ],
+            "name" : "GroundSensor.Bk.R",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -1.1213068962097168,
+                -0.6526327133178711,
+                0.23820734024047852
+            ]
+        },
+        {
+            "name" : "MCH-Axis.Ft",
+            "rotation" : [
+                4.209770122542977e-05,
+                0,
+                -0.7071068286895752,
+                0.7071068286895752
+            ],
+            "translation" : [
+                -0.5630338191986084,
+                -1.9810069799423218,
+                0.23600849509239197
+            ]
+        },
+        {
+            "name" : "MCH-Axis.Bk",
+            "rotation" : [
+                -0.0013348085340112448,
+                8.221405500830059e-11,
+                -0.7062098383903503,
+                0.7080013155937195
+            ],
+            "scale" : [
+                1.0000001192092896,
+                1.0000001192092896,
+                1
+            ],
+            "translation" : [
+                -0.5630337595939636,
+                -0.0014275267021730542,
+                0.23820734024047852
+            ]
+        },
+        {
+            "name" : "MCH-Suspension.Bk",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -2.2733001969754696e-07,
+                -8.498318493366241e-09,
+                0.23714148998260498
+            ]
+        },
+        {
+            "name" : "MCH-Body",
+            "rotation" : [
+                -0.00027748942375183105,
+                -6.827723476558062e-16,
+                -9.094947017729282e-13,
+                1
+            ],
+            "scale" : [
+                1,
+                1,
+                0.9999999403953552
+            ],
+            "translation" : [
+                5.937182301352095e-09,
+                1.0610785484313965,
+                -0.1137232631444931
+            ]
+        },
+        {
+            "name" : "Suspension",
+            "rotation" : [
+                -0.00027748418506234884,
+                -6.827825120511732e-16,
+                -9.094947017729282e-13,
+                1
+            ],
+            "scale" : [
+                1,
+                1,
+                0.9999999403953552
+            ],
+            "translation" : [
+                5.937177860459997e-09,
+                1.0620673894882202,
+                1.668038249015808
+            ]
+        },
+        {
+            "children" : [
+                50,
+                51
+            ],
+            "name" : "MCH-Axis",
+            "rotation" : [
+                1.3387762010097504e-09,
+                2.386795908552769e-16,
+                -1.8189898372267255e-12,
+                1
+            ],
+            "translation" : [
+                2.473824700643945e-09,
+                3.178865881636739e-07,
+                -3.6880791753901576e-09
+            ]
+        },
+        {
+            "children" : [
+                52
+            ],
+            "name" : "MCH-Suspension.Ft",
+            "rotation" : [
+                0.00027748942375183105,
+                -8.881785255792436e-16,
+                -2.7284841053187847e-12,
+                1
+            ],
+            "scale" : [
+                1,
+                1,
+                0.9999998807907104
+            ],
+            "translation" : [
+                -2.3594475351274014e-07,
+                -1.9810068607330322,
+                0.2360420823097229
+            ]
+        },
+        {
+            "children" : [
+                16,
+                24,
+                31,
+                39,
+                46,
+                47,
+                48,
+                49,
+                53
+            ],
+            "name" : "MCH-Root.Axle.Bk",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -2.2733001969754696e-07,
+                2.2992026060819626e-07,
+                -0.2371414303779602
+            ]
+        },
+        {
+            "children" : [
+                15,
+                54
+            ],
+            "name" : "GroundSensor.Axle.Bk",
+            "rotation" : [
+                1,
+                1.8189894035458565e-12,
+                7.549790126404332e-08,
+                0
+            ],
+            "translation" : [
+                -2.704055930280447e-07,
+                -1.9810066223144531,
+                4.1604533151939904e-09
+            ]
+        },
+        {
+            "children" : [
+                55
+            ],
+            "name" : "Drift",
+            "rotation" : [
+                1,
+                -1.8189894035458565e-12,
+                7.549790126404332e-08,
+                1.0842021724855044e-19
+            ],
+            "translation" : [
+                -2.3594475351274014e-07,
+                -1.9810066223144531,
+                0.23714148998260498
+            ]
+        },
+        {
+            "name" : "SHP-GroundSensor.Axle.Ft",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "scale" : [
+                1,
+                0.9999998807907104,
+                1
+            ],
+            "translation" : [
+                -2.3597385734319687e-07,
+                -4.899120540358126e-07,
+                -0.235042005777359
+            ]
+        },
+        {
+            "name" : "MCH-Root.Axle.Ft",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -2.3597385734319687e-07,
+                -4.899120540358126e-07,
+                -0.235042005777359
+            ]
+        },
+        {
+            "name" : "MCH-Steering",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -2.3597385734319687e-07,
+                -4.899120540358126e-07,
+                2.9802322387695312e-08
+            ]
+        },
+        {
+            "children" : [
+                57,
+                58,
+                59
+            ],
+            "name" : "GroundSensor.Axle.Ft",
+            "rotation" : [
+                0,
+                0,
+                -1.8189894035458565e-12,
+                1
+            ],
+            "translation" : [
+                -2.3594475351274014e-07,
+                -1.9810066223144531,
+                0.2360420823097229
+            ]
+        },
+        {
+            "children" : [
+                14,
+                56,
+                60
+            ],
+            "name" : "Root",
+            "rotation" : [
+                -0.7071068286895752,
+                -1.2862198285612525e-12,
+                -1.2862198285612525e-12,
+                0.7071068286895752
+            ],
+            "translation" : [
+                1.1088559404015541e-08,
+                5.960464477539063e-08,
+                8.498318493366241e-09
+            ]
+        },
+        {
+            "name" : "MCH-Wheel.rotation.Ft.L",
+            "rotation" : [
+                -0.7071068286895752,
+                -1.2862198285612525e-12,
+                -1.2862198285612525e-12,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0.5647814273834229,
+                0.23607563972473145,
+                1.9810070991516113
+            ]
+        },
+        {
+            "name" : "MCH-Wheel.rotation.Ft.R",
+            "rotation" : [
+                -0.7071068286895752,
+                -1.2862198285612525e-12,
+                -1.2862199369814697e-12,
+                0.7071068286895752
+            ],
+            "scale" : [
+                1,
+                0.9999998807907104,
+                1
+            ],
+            "translation" : [
+                -0.5630335807800293,
+                0.23600849509239197,
+                1.9810067415237427
+            ]
+        },
+        {
+            "name" : "MCH-Wheel.rotation.Bk.L",
+            "rotation" : [
+                -0.7071068286895752,
+                -1.2862198285612525e-12,
+                -1.2862198285612525e-12,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0.5647816061973572,
+                0.23607563972473145,
+                -0.0014279026072472334
+            ]
+        },
+        {
+            "name" : "MCH-Wheel.rotation.Bk.R",
+            "rotation" : [
+                -0.7071068286895752,
+                -1.2862198285612525e-12,
+                -1.2862199369814697e-12,
+                0.7071068286895752
+            ],
+            "scale" : [
+                1,
+                0.9999998807907104,
+                1
+            ],
+            "translation" : [
+                -0.5630335211753845,
+                0.23820734024047852,
+                0.0014275267021730542
+            ]
+        },
+        {
+            "name" : "Steering",
+            "rotation" : [
+                0,
+                0,
+                1,
+                1.8189894035458565e-12
+            ],
+            "translation" : [
+                -1.6923877410590649e-07,
+                -1.7935056686401367,
+                2.9802322387695312e-08
+            ]
+        },
+        {
+            "children" : [
+                66
+            ],
+            "name" : "MCH-Steering.rotation",
+            "rotation" : [
+                -0.7071068286895752,
+                -1.2862198285612525e-12,
+                -1.2862198285612525e-12,
+                0.7071068286895752
+            ],
+            "translation" : [
+                2.473825588822365e-09,
+                0.2360420823097229,
+                1.9810066223144531
+            ]
+        },
+        {
+            "children" : [
+                1,
+                3,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12,
+                13,
+                61,
+                62,
+                63,
+                64,
+                65,
+                67
+            ],
+            "name" : "Car Rig.001",
+            "rotation" : [
+                0,
+                0.7071237564086914,
+                0,
+                0.7070897817611694
+            ],
+            "scale" : [
+                18.248754501342773,
+                18.248754501342773,
+                18.248754501342773
+            ],
+            "translation" : [
+                48.222808837890625,
+                -9.533479690551758,
+                -29.3194580078125
+            ]
+        },
+        {
+            "name" : "WGT-CarRig.DriftHandle.001"
+        },
+        {
+            "name" : "WGT-CarRig.Root.001"
+        },
+        {
+            "name" : "WGT-CarRig.GroundSensor.001"
+        },
+        {
+            "name" : "WGT-CarRig.GroundSensor.Axle.001"
+        },
+        {
+            "name" : "WGT-CarRig.Wheel.001"
+        },
+        {
+            "name" : "WGT-CarRig.WheelBrake.001"
+        },
+        {
+            "name" : "WGT-CarRig.Steering.001"
+        },
+        {
+            "name" : "WGT-CarRig.Suspension.001"
+        },
+        {
+            "name" : "WGT-CarRig.WheelDamper.001"
+        }
+    ],
+    "skins" : [
+        {
+            "inverseBindMatrices" : 0,
+            "joints" : [
+                1,
+                3,
+                5,
+                7,
+                9,
+                10,
+                11,
+                12,
+                13,
+                61,
+                14,
+                56,
+                55,
+                15,
+                54,
+                16,
+                24,
+                17,
+                18,
+                20,
+                19,
+                21,
+                23,
+                22,
+                31,
+                25,
+                26,
+                27,
+                28,
+                30,
+                29,
+                39,
+                32,
+                33,
+                35,
+                34,
+                36,
+                38,
+                37,
+                46,
+                40,
+                41,
+                42,
+                43,
+                45,
+                44,
+                47,
+                48,
+                49,
+                53,
+                52,
+                50,
+                51,
+                60,
+                57,
+                58,
+                59,
+                62,
+                63,
+                64,
+                65,
+                67,
+                66
+            ],
+            "name" : "Car Rig.001"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 63,
+            "type" : "MAT4"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 4032,
+            "byteOffset" : 0
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 4032,
+            "uri" : "data:application/octet-stream;base64,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"
+        }
+    ]
+}
